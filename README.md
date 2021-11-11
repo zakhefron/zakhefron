@@ -1,7 +1,7 @@
 <h1 align="center">Hello World, I am Ferozkhan</h1>
 <h4 align="center"> Developer | Consultant | Open Source Contributor | Researcher </h4>
 
-Passionate programmer, tech enthusiast to support the growth of human race and working for better tomorrow.
+<p align="center">Passionate programmer, tech enthusiast to support the growth of human race and working for better tomorrow.</p>
 
 
 
