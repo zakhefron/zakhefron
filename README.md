@@ -17,11 +17,17 @@
   <img title="Typescript" src="https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white&style=for-the-badge"/>
 <img title="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
     <img title="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+           <img title="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
     <img title="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge"/>
     <img title="Jquery" src="https://img.shields.io/badge/-Jquery-0769AD?logo=jquery&logoColor=white&style=for-the-badge"/>
    <img title="NPM" src="https://img.shields.io/badge/-Npm-CB3837?logo=npm&logoColor=white&style=for-the-badge"/>
    <img title="GIT" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
    <img title="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+       <img title="MarkDown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+       <img title="Azure Devops" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/>
+    
+
+    
 
 </p>
 
