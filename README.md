@@ -28,7 +28,6 @@
   <a href="#"><img src="https://img.shields.io/badge/DOCKER-0db7ed?style=for-the-badge&logo=docker&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/sequelize-2478bd?style=for-the-badge&logo=sequelize&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"></a>
     <a href="#"><img src="https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"></a>
