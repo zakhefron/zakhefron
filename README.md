@@ -48,5 +48,3 @@
 [![ferozkhan's Stack Overflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/6455274?color=orange&label=reputation&logo=stackoverflow&style=for-the-badge)](https://stackoverflow.com/users/6455274 "ferozkhan's Stack Overflow Reputation")
 
 
-### Reach me 
-**zakhefron@gmail.com**
