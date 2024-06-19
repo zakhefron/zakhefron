@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I am Ferozkhan</h1>
-<h4 align="center"> Developer | Consultant | Open Source Contributor | Researcher </h4>
+<h4 align="center"> Developer | Consultant | Open Source Contributor </h4>
 
 <p align="center">Passionate programmer, tech enthusiast to support the growth of human race and working for better tomorrow.</p>
 
